@@ -36,7 +36,7 @@ E.	Computer Vision<br>
 Computer vision merupakan proses otomatis yang mengintegrasikan sejumlah besar proses untuk persepsi visual, seperti akuisisi citra, pengolahan citra, pengenalan dan membuat keputusan. Computer vision mencoba meniru cara kerja sistem visual manusia yang sesungguhnya sangat kompleks.Computer Vision sering didefinisikan sebagai salah satu cabang ilmu pengetahuan yang mempelajari bagaimana komputer dapat mengenali obyek yang diamati/ diobservasi. Cabang ilmu ini bersama intelijensia semu (Artificial Intelligence) akan mampu menghasilkan sistem intelijen visual (Visual Intelligence System). Sebagai teknologi disiplin, visi komputer berusaha untuk menerapkan teori dan model untuk pembangunan sistem visi komputer.<br>
 Contoh conputer vision :<br>
 -	Mengorganisir informasi (misalnya, untuk pengindeksan database foto dan gambar urutan). <br>
--	Modeling benda atau lingkungan (misalnya, industri inspeksi, analisis gambar medis / topografis).<br>
+-	Modeling benda atau lingkungan (misalnya, industri inspeksi, analisis gambar medis / topografis).<br><br>
 
 F.	Robotika <br>
 Robot ialah suatu mesin yang dirancang untuk membantu atau menggantikan peranan manusia dalam mengerjakan beberapa tugas secara otomatis dengan seminimal mungkin mendapat interfensi dari luar. Robotika ialah ilmu yang mempelajari tentang robot yang meliputi beberapa disiplin ilmu elektronika, mekanik, kontrol, komputer.Robot dapat diaplikasikan pada berbagai bidang dan tempat, mulai dari perumahan, industri, perkantoran, rumah sakit, militer, bisnis dan perdagangan.<br>
