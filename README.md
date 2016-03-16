@@ -16,14 +16,14 @@ Jawab		: - Mesin atau robot tersebut tidak akan mencapai keberhasilan kesadaran 
 2.	Jelaskan istilah pada bidang AI serta berikan beberapa contoh implementasi untuk masing-masing sub bidang tersebut! <br>
 A.	Pengolahan Bahasa Alami (NLP) adalah teknologi yang memungkinkan untuk melakukan berbagai macam pemrosesan terhadap bahasa alami yang biasa digunakan oleh manusia.<br>
 Pengolahan bahasa alami dibagi menjadi 4 yaitu :<br> 
--	Syntax adalah ilmu bahasa yang berhubungan dengan tata bahasa dan komponen terstuktur dari bahasa alami<br>
--	Semantics adalah ilmu bahasa yang berhubungan dengan makna komponen dari bahasa, masih merupakan tantangan terbesar dalam pemrosesan bahasa alami dengan menggunakan komputer<br>
--	Heuristics adalah metode pencarian dalam pemecahan suatu masalah yang bisa digunakan pada situasi khusus untuk pemahaman bahasa otomatis. <br>
--	World knowledge adalah informasi yanng dibenarkan oleh banyak orang.<br>
+-Syntax adalah ilmu bahasa yang berhubungan dengan tata bahasa dan komponen terstuktur dari bahasa alami<br>
+-Semantics adalah ilmu bahasa yang berhubungan dengan makna komponen dari bahasa, masih merupakan tantangan terbesar dalam pemrosesan bahasa alami dengan menggunakan komputer<br>
+-Heuristics adalah metode pencarian dalam pemecahan suatu masalah yang bisa digunakan pada situasi khusus untuk pemahaman bahasa otomatis. <br>
+-World knowledge adalah informasi yanng dibenarkan oleh banyak orang.<br>
 Contoh dari NLP di dunia komputer text-database searching untuk mencari database texstual yaitu Ask jeeves (ask.com)<br>
 B.	Knowledge representation<br>
 Cara untuk menyajikan pengetahuan yang diperoleh ke dalam suatu skema/diagram tertentu sehingga dapat diketahui relasi ataura suatu pengetahuan dengan pengetahuan yang lain dapat dipakai untuk menguji kebenaran dan penalaran. Representasi pengetahuan dibutuhkan untuk menangkap sifat-sifat penting masalah dalam mengakses informasi.<br>
-Contoh : Semantic network
+Contoh : Semantic network<br>
 C.	Automated Reasoning <br>
 Automated Reasoning adalah ilmu komputer dan logika matematika yang didedikasikan untuk memahami berbagai aspek penalaran untuk membantu menghasilkan program komputer. <br>
 Contoh :Logika pemrograman.<br>
