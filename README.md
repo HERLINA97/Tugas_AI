@@ -1,10 +1,10 @@
 # Tugas AI
 Nama : Herlina<br>
-Nim  : 131114188
+Nim  : 131114188<br>
 Kelas: TPB Pagi
 
 <p>1.	A. Apakah anda setuju atau tidak dengan pendapat Turing?<br>
-Jawab		: saya setuju jika hanya untuk membantu kerja manusia atau masih dalam lingkup rasional, karena meski mesin yang dibuat sangat cangih bahkan mampu mengelabuhi manusia, mesin yang sebenarnya juga otak manusia, penalaran yang diterjemahkan ke bahasa yang bisa dimengerti oleh mesin.</p><br>
+Jawab		: saya setuju jika hanya untuk membantu kerja manusia atau masih dalam lingkup rasional, karena meski mesin yang dibuat sangat cangih bahkan mampu mengelabuhi manusia, mesin yang sebenarnya juga otak manusia, penalaran yang diterjemahkan ke bahasa yang bisa dimengerti oleh mesin.</p>
 
 B. Apakah menurut anda, akan ada komputer yang bisa melewati Tes Turing suatu saat?<br>
 Jawab		: Menurut saya ada, sifat mausia yang tidak pernah puas dan banyaknya pemikiran yang baru seperti halnya banyak mesin yang sudah berhasil digunakan sesuai dengan tujuan, yaitu untuk membantu kerja manusia juga kemajuan teknologi yang mendukung untuk terus dilakukan penelitian dan percobaan yang memungkinkan teori untuk memanipulasi dan meniru (turing)  akan terlewati.<br>  
@@ -23,7 +23,6 @@ Pengolahan bahasa alami dibagi menjadi 4 yaitu :<br>
 Contoh dari NLP di dunia komputer text-database searching untuk mencari database texstual yaitu Ask jeeves (ask.com)<br>
 B.	Knowledge representation<br>
 Cara untuk menyajikan pengetahuan yang diperoleh ke dalam suatu skema/diagram tertentu sehingga dapat diketahui relasi ataura suatu pengetahuan dengan pengetahuan yang lain dapat dipakai untuk menguji kebenaran dan penalaran. Representasi pengetahuan dibutuhkan untuk menangkap sifat-sifat penting masalah dalam mengakses informasi.<br>
-
 Contoh : Semantic network
 C.	Automated Reasoning <br>
 Automated Reasoning adalah ilmu komputer dan logika matematika yang didedikasikan untuk memahami berbagai aspek penalaran untuk membantu menghasilkan program komputer. <br>
