@@ -11,7 +11,7 @@ Jawab		: Menurut saya ada, sifat mausia yang tidak pernah puas dan banyaknya pem
 
 C. Halangan apa saja yang menurut anda menghambat perkembangan komputer untuk melewati Tes Turing?<br>
 Jawab		: - Mesin atau robot tersebut tidak akan mencapai keberhasilan kesadaran yang sempurna, karena kesadaran hanya milik manusia.<br>
--Penolakan dari masyarakat yang takut akan kehilangan pekerjaannya yang akan di gantikan oleh robot atau mesin. </p><br><br>
+-Penolakan dari masyarakat yang takut akan kehilangan pekerjaannya yang akan di gantikan oleh robot atau mesin. </p><br>
 
 <p>2.	Jelaskan istilah pada bidang AI serta berikan beberapa contoh implementasi untuk masing-masing sub bidang tersebut! <br>
 A.	Pengolahan Bahasa Alami (NLP) adalah teknologi yang memungkinkan untuk melakukan berbagai macam pemrosesan terhadap bahasa alami yang biasa digunakan oleh manusia.<br>
